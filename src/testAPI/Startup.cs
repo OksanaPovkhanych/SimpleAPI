@@ -38,7 +38,6 @@ namespace testAPI
 
             app.UseHttpsRedirection();
 
-//test comment
             app.UseRouting();
 
             app.UseAuthorization();
